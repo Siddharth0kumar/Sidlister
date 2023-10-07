@@ -40,7 +40,7 @@ To install Sidlister, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/sidlister.git
+   git clone https://github.com/siddharth0kumar/Sidlister.git
    ```
 
 2. Navigate to the Sidlister directory:
