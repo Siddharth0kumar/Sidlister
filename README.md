@@ -52,6 +52,7 @@ To install Sidlister, follow these steps:
 3. Run the setup script to install Sidlister as a global command:
 
    ```bash
+   chmod +x sidup.sh
    ./sidup.sh
    ```
 
@@ -63,8 +64,10 @@ After installing Sidlister, you can use it as follows:
 
    ```bash
    python3 Sidlister.py
+   
    ```
-
+   # Points to remember 
+```
 2. Enter the domain name (without http/https) when prompted.
 
 3. Sidlister will enumerate subdomains using Sublist3r and save the results in an HTML file.
