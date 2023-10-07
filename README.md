@@ -66,8 +66,8 @@ After installing Sidlister, you can use it as follows:
    python3 Sidlister.py
    
    ```
-   # Points to remember 
-```
+   # @Points to remember 
+
 2. Enter the domain name (without http/https) when prompted.
 
 3. Sidlister will enumerate subdomains using Sublist3r and save the results in an HTML file.
@@ -85,4 +85,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 - ASCII art generated using [pyfiglet](https://pypi.org/project/pyfiglet/).
 - Subdomain enumeration performed using [Sublist3r](https://github.com/aboul3la/Sublist3r).
 
-```
