@@ -1,7 +1,7 @@
 # Sidlister
 Aap apne tool ke liye ek README file bana sakte hain jisme aap tool ki details, installation instructions, aur usage instructions provide kar sakte hain. Yahan ek sample README file ka template diya gaya hai:
 
-```markdown
+# markdown
 # Sidlister - Subdomain Enumeration Tool
 
 ## Introduction
