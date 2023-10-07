@@ -61,21 +61,19 @@ To install Sidlister, follow these steps:
 
 After installing Sidlister, you can use it as follows:
 
-1. Open a terminal window.
-
-2. Run Sidlister by typing:
+1. Run Sidlister by typing:
 
    ```bash
-   sidlister
+   python3 Sidlister.py
    ```
 
-3. Enter the domain name (without http/https) when prompted.
+2. Enter the domain name (without http/https) when prompted.
 
-4. Sidlister will enumerate subdomains using Sublist3r and save the results in an HTML file.
+3. Sidlister will enumerate subdomains using Sublist3r and save the results in an HTML file.
 
-5. The HTML file will be saved as `mephisto_results.html` in the current directory.
+4. The HTML file will be saved as `mephisto_results.html` in the current directory.
 
-6. You can view the results by opening `mephisto_results.html` in a web browser.
+5. You can view the results by opening `mephisto_results.html` in a web browser.
 
 ## License
 
