@@ -1,8 +1,35 @@
 # Sidlister
 Aap apne tool ke liye ek README file bana sakte hain jisme aap tool ki details, installation instructions, aur usage instructions provide kar sakte hain. Yahan ek sample README file ka template diya gaya hai:
 
-# markdown
 # Sidlister - Subdomain Enumeration Tool
+
+Sidlister is a Python-based subdomain enumeration tool that leverages the power of Sublist3r to quickly and efficiently discover subdomains associated with a target domain. With a user-friendly command-line interface and a touch of humor, Sidlister makes the process of subdomain enumeration not only effective but also fun.
+
+**Key Features:**
+
+- Utilizes Sublist3r to perform subdomain enumeration.
+- Provides a stylish and humorous ASCII art introduction upon execution.
+- Generates organized HTML reports containing enumerated subdomains.
+- Simple and straightforward usage for both beginners and experienced users.
+- Easily installed as a global command for quick access.
+
+**Usage:**
+
+Sidlister is designed to simplify the process of subdomain enumeration. Users can run the tool, enter the target domain, and watch as Sidlister efficiently discovers and lists subdomains in an HTML report. The tool is perfect for security professionals, penetration testers, and anyone interested in understanding the subdomain landscape of a website.
+
+**Installation:**
+
+Sidlister can be installed with a single command, making it accessible from any terminal window. Detailed installation instructions are provided in the README file.
+
+**License:**
+
+Sidlister is open-source software and is released under the MIT License. Users are encouraged to modify and customize the tool to suit their needs.
+
+**Acknowledgments:**
+
+Sidlister relies on the power of Sublist3r for subdomain enumeration and pyfiglet for creating eye-catching ASCII art introductions. The tool was developed with the goal of simplifying subdomain enumeration while adding a touch of fun to the process.
+
+This description can be customized further to match your tool's unique features and characteristics.
 
 ## Introduction
 
@@ -27,7 +54,7 @@ To install Sidlister, follow these steps:
 3. Run the setup script to install Sidlister as a global command:
 
    ```bash
-   ./setup.sh
+   ./sidup.sh
    ```
 
 ## Usage
