@@ -1,7 +1,5 @@
-# Sidlister
-Aap apne tool ke liye ek README file bana sakte hain jisme aap tool ki details, installation instructions, aur usage instructions provide kar sakte hain. Yahan ek sample README file ka template diya gaya hai:
-
 # Sidlister - Subdomain Enumeration Tool
+![Sidlister](https://github.com/Siddharth0kumar/Sidlister/assets/89460704/1573b13b-1664-4bae-a200-be1f37d9b775)
 
 Sidlister is a Python-based subdomain enumeration tool that leverages the power of Sublist3r to quickly and efficiently discover subdomains associated with a target domain. With a user-friendly command-line interface and a touch of humor, Sidlister makes the process of subdomain enumeration not only effective but also fun.
 
