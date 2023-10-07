@@ -46,7 +46,7 @@ To install Sidlister, follow these steps:
 2. Navigate to the Sidlister directory:
 
    ```bash
-   cd sidlister
+   cd Sidlister
    ```
 
 3. Run the setup script to install Sidlister as a global command:
